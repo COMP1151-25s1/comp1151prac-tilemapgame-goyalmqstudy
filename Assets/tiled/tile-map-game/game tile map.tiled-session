@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "bob.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "bob.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 456,
+                "y": 74
+            }
+        },
+        "tiny-dungeon.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/49178229/Documents/comp1151prac-tilemapgame-goyalmqstudy/Assets/tiled/tile-map-game",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "tiny-dungeon.tsx",
+        "bob.tmx"
+    ],
+    "project": "game tile map.tiled-project",
+    "recentFiles": [
+        "tiny-dungeon.tsx",
+        "bob.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
